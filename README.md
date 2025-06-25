@@ -1,36 +1,55 @@
 # Bubble-sort-PedidoComida
 
-📚 Projeto – Estruturas de Dados I
-Linguagem utilizada: Java
-Tipo de trabalho: Em dupla (máximo 2 pessoas)
-Formato da entrega: Código + Vídeo de apresentação
+---
 
-🎯 Objetivo do Projeto
-Desenvolver uma aplicação prática baseada em um problema do mundo real, utilizando os conceitos aprendidos em aula, com ênfase em estruturas de dados e algoritmos.
+## 📚 Projeto – Estruturas de Dados I  
+**Linguagem:** Java  
+**Tipo de trabalho:** Em dupla (máximo 2 pessoas)  
+**Formato da entrega:** Código + Vídeo de apresentação  
 
-🧠 Requisitos Técnicos
-Aplicação prática do mundo real, resolvendo um problema real ou simulado.
+---
+
+## 🎯 Objetivo do Projeto
+
+Desenvolver uma aplicação prática baseada em um problema do mundo real, utilizando os conceitos aprendidos em aula, com ênfase em **estruturas de dados** e **algoritmos**.
+
+---
+
+## 🧠 Requisitos Técnicos
 
 O projeto deve obrigatoriamente utilizar:
 
-✅ Uma estrutura de dados estudada (ex: lista, fila, pilha, árvore, grafo etc.)
+- ✅ Uma estrutura de dados estudada (exemplo: lista, fila, pilha, árvore, grafo, etc.)  
+- ✅ Um algoritmo de ordenação aprendido (exemplo: bubble sort, insertion sort, quick sort, etc.)  
+- ✅ Um outro algoritmo — pode ser estudado ou novo, desde que faça sentido na proposta (exemplo: busca binária, Dijkstra, algoritmo guloso, etc.)  
 
-✅ Um algoritmo de ordenação aprendido (ex: bubble sort, insertion sort, quick sort etc.)
+Além disso, o projeto deve conter:
 
-✅ Mais um algoritmo — pode ser um algoritmo estudado ou novo, desde que faça sentido dentro da proposta da aplicação (ex: busca binária, Dijkstra, algoritmo guloso, etc.)
+- Codificação completa em **Java**  
+- Trabalho realizado em dupla (ou individual se necessário)  
 
-Codificação completa do projeto em Java
+---
 
-Projeto deve ser realizado em dupla (ou individual, se necessário)
+## 🎥 Apresentação em Vídeo
 
-🎥 Apresentação em Vídeo
 O grupo deve gravar um vídeo contendo:
 
-✅ Contextualização do problema (o “mundo real”)
+- ✅ Contextualização do problema (o “mundo real”)  
+- ✅ Explicação da solução adotada  
+- ✅ Demonstração do funcionamento do código-fonte  
 
-✅ Explicação da solução adotada
+---
 
-✅ Demonstração do funcionamento do código-fonte
+## 📌 Link da Explicação do Trabalho
 
-📌 Link da explicação do trabalho:
-🔗 https://www.youtube.com/watch?v=RetEnYhwBi0
+[Explicação do projeto no YouTube](https://www.youtube.com/watch?v=RetEnYhwBi0)
+
+---
+
+## Contato
+
+- Desenvolvido por: **Murilo Alves**  
+
+---
+
+
