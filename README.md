@@ -1,9 +1,36 @@
-Projeto Estruturas de Dados I
-onde foi solictado:
+# Bubble-sort-PedidoComida
 
-- Aplicação do mundo real utilizando 1 estrutura de dados estudada + 1 algoritmo de ordenação estudado + 1 outro algoritmo estudado ou não
-- Codificação do projeto em linguagem Java.
-- Projeto realizado em dupla, no máximo.
-- Gravação de um vídeo apresentando o projeto, incluindo o contexto, a solução e o código
+📚 Projeto – Estruturas de Dados I
+Linguagem utilizada: Java
+Tipo de trabalho: Em dupla (máximo 2 pessoas)
+Formato da entrega: Código + Vídeo de apresentação
 
-Explicação do trabalho https://www.youtube.com/watch?v=RetEnYhwBi0
+🎯 Objetivo do Projeto
+Desenvolver uma aplicação prática baseada em um problema do mundo real, utilizando os conceitos aprendidos em aula, com ênfase em estruturas de dados e algoritmos.
+
+🧠 Requisitos Técnicos
+Aplicação prática do mundo real, resolvendo um problema real ou simulado.
+
+O projeto deve obrigatoriamente utilizar:
+
+✅ Uma estrutura de dados estudada (ex: lista, fila, pilha, árvore, grafo etc.)
+
+✅ Um algoritmo de ordenação aprendido (ex: bubble sort, insertion sort, quick sort etc.)
+
+✅ Mais um algoritmo — pode ser um algoritmo estudado ou novo, desde que faça sentido dentro da proposta da aplicação (ex: busca binária, Dijkstra, algoritmo guloso, etc.)
+
+Codificação completa do projeto em Java
+
+Projeto deve ser realizado em dupla (ou individual, se necessário)
+
+🎥 Apresentação em Vídeo
+O grupo deve gravar um vídeo contendo:
+
+✅ Contextualização do problema (o “mundo real”)
+
+✅ Explicação da solução adotada
+
+✅ Demonstração do funcionamento do código-fonte
+
+📌 Link da explicação do trabalho:
+🔗 https://www.youtube.com/watch?v=RetEnYhwBi0
